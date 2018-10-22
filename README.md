@@ -1,2 +1,2 @@
 # wohin
-Wenn man mal nicht weiß wohin
+Wenn man nicht weiß wohin
